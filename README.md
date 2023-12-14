@@ -17,10 +17,10 @@ Experimental Results
 
 - **Transaction Performance**
     - TPCC Performance: https://github.com/w1397800/FIR/wiki/TPCC-Performance-with-Different-OLTP-Engines
-    - YCSB Performance:  
+    - YCSB Performance: https://github.com/w1397800/FIR/wiki/YCSB-Performance
 - **Recovery Performance:**
-    - Recovery with Unplanned Crash: 
-    - Recovery with Manual Shutdown: 
+    - Recovery with Unplanned Crash: https://github.com/w1397800/FIR/wiki/Recovery-with-Unplanned-Crash
+    - Recovery with Manual Shutdown: https://github.com/w1397800/FIR/wiki/Recovery-with-Manual-Shutdown
 - **Index Checkpoint Performance:**
-    - TPCC Performance with Different OLTP Engines: 
-    - Throughput over 100 Seconds: 
+    - Checkpoint Speed & Checkpoint Scale: https://github.com/w1397800/FIR/wiki/Checkpoint-Speed-&-Checkpoint-Scale
+    - Throughput over 100 Seconds: https://github.com/w1397800/FIR/wiki/Throughput-over-100-Seconds
