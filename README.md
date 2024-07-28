@@ -1,7 +1,7 @@
 FIR
 -----------------
 
-FIR is a  a NVM OLTP engine with fast rebuilding of the DRAM index, achieving instant system recovery while maintaining high runtime throughput.
+FIR is an NVM OLTP engine with fast rebuilding of the DRAM index, achieving instant system recovery while maintaining high runtime throughput.
 
 
 
